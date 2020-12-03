@@ -2,7 +2,6 @@ import React from 'react';
 import 'react-loader-spinner/dist/loader/css/react-spinner-loader.css';
 import Spinner from 'react-loader-spinner';
 import styles from '../Loader/Loader.module.css';
-import PropTypes from 'prop-types';
 
 class Loader extends React.Component {
   render() {
